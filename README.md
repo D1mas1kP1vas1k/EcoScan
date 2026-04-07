@@ -13,8 +13,7 @@
   </a>
 
   <br>
-
-  <a href="https://github.com/D1mas1kP1vas1k/EcoScan/releases/download/v1.0.0/app-debug.apk">
+  <a href="https://github.com/D1mas1kP1vas1k/EcoScan/releases/download/1.0.0/EcoScan.apk">
     <img src="https://img.shields.io/badge/СКАЧАТЬ_НА_ANDROID-01579b?style=for-the-badge&logo=android&logoColor=white" width="350">
   </a>
 
